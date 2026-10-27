@@ -72,4 +72,4 @@ Per compilare l'app in locale tramite Gradle:
 
 ## 📄 Licenza
 
-Distribuito sotto licenza **Apache 2.0** (o **GPLv3**). Vedi il file `LICENSE` per maggiori dettagli.
+Distribuito sotto licenza **GNU General Public License v3.0 (GPLv3)**. Vedi il file [LICENSE](LICENSE) per il testo completo.
